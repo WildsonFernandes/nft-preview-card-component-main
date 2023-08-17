@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Hanken+Grotesk:wght@200;400&family=Outfit:wght@300&family=Righteous&family=Roboto:wght@300&family=Sarala&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(44, 54, 80);
+    margin-top: 50px;
+}
+
+.fora{
+    width: 300px;
+    height: 550px;
+    background-color: rgb(42, 63, 104);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 15px;
+    box-shadow: 10px 12px 14px rgba(15, 15, 15, 20);
+    
+    
+}
+
+.logoprincipal{
+    width: 230px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    align-items: center ;
+    margin-left: 35px;
+    margin-top: 15px;
+    
+
+}
+.titulo{
+    display: flex;
+    font-size: 20px;
+    justify-content: flex-start;
+    padding: 35px;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.paragrafo{
+    display: flex;
+    color: rgb(154, 155, 155);
+    margin-left: 35px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 13px;
+}
+
+.eterio{
+    display: flex;
+    padding: 12px;
+    align-items: center;
+    color: rgba(119, 136, 136, 0.979);
+    justify-content: space-around;
+    font-family: 'Outfit', sans-serif;
+    font-size: 12px;
+    gap: 80px;
+   
+    
+    
+}
+
+.eterioimg{
+    width: ;
+    color: rgb(38, 195, 216);
+    padding: 15px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    
+
+}
+
+.clock{
+justify-content: ;
+flex-direction: row;
+
+
+    
+}
+
+.bottom{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-top: 0,4 solid;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.548);
+    
+}
+
+.img-bot{
+    width: 30px ;
+    border: 1px solid;
+    border-radius: 50%;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.traco{
+    color: rgb(121, 121, 121);
+    display: flex;
+    justify-content: center;
+    
+    
+}
